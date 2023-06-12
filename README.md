@@ -8,7 +8,7 @@ Meu nome é Enio Batalha, tenho 29 anos e estudo Análise e Desenvolvimento de S
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact&theme=dark)](https://github.com/eniobatalha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniobatalha&layout=compact&theme=dark)](https://github.com/eniobatalha)
 
 ## Linguagens
 
