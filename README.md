@@ -1,18 +1,7 @@
 # Olá, tudo bem?
 Meu nome é Enio Batalha, tenho 29 anos e estudo Análise e Desenvolvimento de Sistemas no [IFPE](https://www.ifpe.edu.br/campus/jaboatao/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas).
 
-<div>
-  <div>  
-    
-    [![GitHub Status](https://github-readme-stats.vercel.app/api?username=eniobatalha&show_icons=true&theme=dark)](https://github.com/eniobatalha)    
-    
-  </div>
-  <div>  
-    
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniobatalha&layout=compact&theme=dark)](https://github.com/eniobatalha)    
-    
-  </div>
-</div>
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=eniobatalha&show_icons=true&theme=dark)](https://github.com/eniobatalha)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniobatalha&layout=compact&theme=dark)](https://github.com/eniobatalha)
 
 ## Linguagens
 
