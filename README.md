@@ -1,8 +1,8 @@
 # Olá, tudo bem?
-Meu nome é Enio Batalha, tenho 29 anos e estudo Análise e Desenvolvimento de Sistemas no [Instituto Federal de Pernambuco](https://www.ifpe.edu.br/campus/jaboatao/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas).
+Meu nome é Enio Batalha, tenho 30 anos e estudo Análise e Desenvolvimento de Sistemas no [Instituto Federal de Pernambuco](https://www.ifpe.edu.br/campus/jaboatao/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas).
 Estou em busca da minha primeira oportunidade no universo dev após 10 anos de experiência como TI de redes e suporte.
 
-Tenho interesse natural em carreiras de desenvolvimento backend e banco de dados. No entanto, ainda estou em busca de mais conhecimento e experiência no desenvolvimento frontend para avaliar meu nível de interesse nessa área. Portanto, podemos dizer que sou um estudante direcionado ao fullstack.
+Tenho interesse natural em carreiras de desenvolvimento backend e banco de dados. No entanto, ainda estou em busca de mais conhecimento e experiência no desenvolvimento frontend para avaliar meu nível de interesse nessa área. Portanto, podemos dizer que inicialmente eu sou um estudante direcionado ao fullstack.
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=eniobatalha&show_icons=true&theme=dark)](https://github.com/eniobatalha)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniobatalha&layout=compact&theme=dark)](https://github.com/eniobatalha)
 
