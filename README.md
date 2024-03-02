@@ -11,12 +11,13 @@ Tenho interesse natural em carreiras de desenvolvimento backend e banco de dados
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![C#](https://img.shields.io/badge/-C%23-brightgreen)
 ![Java](https://img.shields.io/badge/-Java-red)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React](https://img.shields.io/badge/-React-orange)
+![ReactNative](https://img.shields.io/badge/-ReactNative-purple)
 ![NextJS](https://img.shields.io/badge/-NextJS-red)
 ![NestJS](https://img.shields.io/badge/-NestJS-yellow)
-![TypeORM](https://img.shields.io/badge/-TypeORM-green)
 ![Git](https://img.shields.io/badge/-Git-black)
 
 ## Redes Sociais
