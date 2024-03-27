@@ -6,7 +6,7 @@ Tenho interesse natural em carreiras de desenvolvimento backend e banco de dados
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=eniobatalha&show_icons=true&theme=dark)](https://github.com/eniobatalha)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniobatalha&layout=compact&theme=dark)](https://github.com/eniobatalha)
 
-## Linguagens
+## Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![C#](https://img.shields.io/badge/-C%23-brightgreen)
